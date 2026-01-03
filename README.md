@@ -1,4 +1,4 @@
-<h1> halo</h1>
+<h1 align="center">Halo Guys, cihuyyy👌</h1>
 
 ###
 
@@ -8,15 +8,11 @@
 
 ###
 
+<br clear="both">
 
-
-# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldiahayy&theme=merko&hide_border=false&include_all_commits=false&count_private=false/> <br/>
-https://nirzak-streak-stats.vercel.app/?user=aldiahayy&theme=merko&hide_border=false)<br/>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=aldiahayy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)"/>
-
-
+  <img src="https://streak-stats.demolab.com?user=aldiahayy&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
