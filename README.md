@@ -8,6 +8,7 @@
 
 ###
 <div align="center">
+<div>
 <p align="center">
   ─── ✦ ───
 </p>
@@ -16,12 +17,20 @@
     “Ketakutan.<br>
      Berasal dari.<br>
      Ketidaktahuan.”
-    &emsp;
+  </i>
+</p></div>
+
+<div>
+<p align="center">
+  ─── ✦ ───
+</p>
+<p align="center">
+  <i>
     “Hanya Orang Gila.<br>
      Yang menginginkan hasil.<br>
      Berbeda tapi cara nya sama.”
   </i>
-</p>
+</p></div>
 
   <hr></hr>
 </div>
