@@ -19,7 +19,7 @@
      Ketidaktahuan.”
   </i>
 </p></div>
-
+&emsp;&emsp;&emsp;
 <div>
 <p align="center">
   ─── ✦ ───
