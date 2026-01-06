@@ -7,33 +7,28 @@
 </div>
 
 ###
-<div align="center">
-<div>
-<p align="center">
-  ─── ✦ ───
-</p>
-<p>
-  <i>
-    “Ketakutan.<br>
-     Berasal dari.<br>
-     Ketidaktahuan.”
-  </i>
-</p></div>
- &nbsp; &nbsp; &nbsp;
-<div>
-<p>
-  ─── ✦ ───
-</p>
-<p align="center">
-  <i>
-    “Hanya Orang Gila.<br>
-     Yang menginginkan hasil.<br>
-     Berbeda tapi cara nya sama.”
-  </i>
-</p></div>
-
-  <hr></hr>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <i>
+        “Progress,<br>
+        not perfection.”
+      </i>
+    </td>
+    <td align="center">
+      <i>
+        “One line of code<br>
+        at a time.”
+      </i>
+    </td>
+    <td align="center">
+      <i>
+        “Let your code<br>
+        speak.”
+      </i>
+    </td>
+  </tr>
+</table>
 
 <br clear="both">
 
