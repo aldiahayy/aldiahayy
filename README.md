@@ -13,7 +13,7 @@
 <p align="center">
   <i>
     <!-- QUOTE:START -->
-  quotes.txt
+cihuyyy
 <!-- QUOTE:END -->
   </i>
 </p>
