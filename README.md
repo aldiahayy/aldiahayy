@@ -16,18 +16,13 @@
     “Ketakutan.<br>
      Berasal dari.<br>
      Ketidaktahuan.”
-  </i>
-</p>
-<p>
-  ─── ✦ ───
-</p>
-<p>
-  <i>
+    &emsp;
     “Hanya Orang Gila.<br>
      Yang menginginkan hasil.<br>
      Berbeda tapi cara nya sama.”
   </i>
 </p>
+
   <hr></hr>
 </div>
 
