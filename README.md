@@ -28,7 +28,7 @@
      Berbeda tapi cara nya sama.”
   </i>
 </p>
-  
+  <hr></hr>
 </div>
 
 <br clear="both">
