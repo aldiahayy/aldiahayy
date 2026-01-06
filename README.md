@@ -7,19 +7,19 @@
 </div>
 
 ###
-<table align="center">
-  <tr>
-    <td align="center">
-      <sub>“Stay curious”</sub>
-    </td>
-    <td align="center">
-      <sub>“Keep building”</sub>
-    </td>
-    <td align="center">
-      <sub>“Grow quietly”</sub>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  ─── ✦ ───
+</p>
+
+<p align="center">
+  <img src="https://readme-quote-api.vercel.app/api?theme=dark&font=serif&align=center" />
+</p>
+
+<p align="center">
+  ─── ✦ ───
+</p>
+
 
 
 
