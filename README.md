@@ -13,16 +13,16 @@
 <p align="center">
   <i>
     <!-- QUOTE:START -->
-Learn relentlessly, build intentionally, grow continuously.
+  quotes.txt
 <!-- QUOTE:END -->
   </i>
 </p>
 
 <p align="center">─── ✦ ───</p>
 
+<hr></hr>
 
-
-
+###
 
 <br clear="both">
 
