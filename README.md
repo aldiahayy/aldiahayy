@@ -7,7 +7,7 @@
 </div>
 
 ###
-
+<div>
 <p align="center">
   ─── ✦ ───
 </p>
@@ -18,6 +18,18 @@
      Ketidaktahuan.”
   </i>
 </p>
+<p align="left">
+  ─── ✦ ───
+</p>
+<p align="left">
+  <i>
+    “Hanya Orang Gila.<br>
+     Yang menginginkan hasil.<br>
+     Berbeda tapi cara nya sama.”
+  </i>
+</p>
+  
+</div>
 
 <br clear="both">
 
