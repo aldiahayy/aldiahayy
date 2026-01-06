@@ -9,11 +9,18 @@
 ###
 <table align="center">
   <tr>
-    <td align="center"><i>“Learn”</i></td>
-    <td align="center"><i>“Build”</i></td>
-    <td align="center"><i>“Ship”</i></td>
+    <td align="center">
+      <sub>“Stay curious”</sub>
+    </td>
+    <td align="center">
+      <sub>“Keep building”</sub>
+    </td>
+    <td align="center">
+      <sub>“Grow quietly”</sub>
+    </td>
   </tr>
 </table>
+
 
 
 
