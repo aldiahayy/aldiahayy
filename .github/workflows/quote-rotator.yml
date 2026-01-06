@@ -1,0 +1,50 @@
+name: Rotate README Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # tiap hari jam 00:00 UTC
+  workflow_dispatch:       # bisa dijalankan manual juga
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Rotate quote from quotes.txt
+        shell: bash
+        run: |
+          if [ ! -f quotes.txt ]; then
+            echo "quotes.txt not found!"
+            exit 1
+          fi
+
+          # Ambil semua baris non-kosong
+          mapfile -t QUOTES < <(grep -v '^[[:space:]]*$' quotes.txt)
+
+          if [ ${#QUOTES[@]} -eq 0 ]; then
+            echo "quotes.txt is empty!"
+            exit 1
+          fi
+
+          # Tentukan indeks berdasarkan hari (berputar otomatis)
+          INDEX=$(( ($(date -u +%s) / 86400) % ${#QUOTES[@]} ))
+          QUOTE="${QUOTES[$INDEX]}"
+
+          # Escape karakter khusus untuk penggantian aman
+          QUOTE_ESCAPED=$(printf '%s' "$QUOTE" | sed 's/[&/\]/\\&/g')
+
+          # Ganti isi antara marker QUOTE:START dan QUOTE:END
+          perl -0777 -i -pe "s/(<!-- QUOTE:START -->)(.*?)(<!-- QUOTE:END -->)/\$1\n$QUOTE_ESCAPED\n\$3/sg" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: rotate quote" || exit 0
+          git push
