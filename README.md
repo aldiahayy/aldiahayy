@@ -7,49 +7,17 @@
 </div>
 
 ###
-<p align="center">
-  <i>
-    “Code is not just about solving problems,<br>
-    it’s about creating possibilities.”
-  </i>
-</p>
 
 <p align="center">
   ─── ✦ ───
 </p>
-
 <p align="center">
   <i>
-    “Stay curious.<br>
-    Keep building.<br>
-    Let the code speak.”
+    “Ketakutan.<br>
+     Berasal dari.<br>
+     Ketidaktahuan.”
   </i>
 </p>
-
-<p align="center">
-  ─── ✦ ───
-</p>
-
-<p align="center">
-  <sub>
-    “Progress, not perfection.<br>
-    One line of code at a time.”
-  </sub>
-</p>
-
-<p align="center">
-  <b>✨ Daily Reminder ✨</b>
-</p>
-
-<p align="center">
-  <i>
-    “Small commits today,<br>
-    big impact tomorrow.”
-  </i>
-</p>
-
-
-
 
 <br clear="both">
 
