@@ -13,8 +13,8 @@
 <p align="center">
   <i>
     <!-- QUOTE:START -->
-    Your quote will appear here.
-    <!-- QUOTE:END -->
+Learn relentlessly, build intentionally, grow continuously.
+<!-- QUOTE:END -->
   </i>
 </p>
 
