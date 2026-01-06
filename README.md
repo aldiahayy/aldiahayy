@@ -14,6 +14,23 @@
   </i>
 </p>
 
+<p align="center">
+  ─── ✦ ───
+</p>
+
+<p align="center">
+  <i>
+    “Stay curious.<br>
+    Keep building.<br>
+    Let the code speak.”
+  </i>
+</p>
+
+<p align="center">
+  ─── ✦ ───
+</p>
+
+
 
 
 <br clear="both">
