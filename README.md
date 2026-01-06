@@ -30,6 +30,24 @@
   ─── ✦ ───
 </p>
 
+<p align="center">
+  <sub>
+    “Progress, not perfection.<br>
+    One line of code at a time.”
+  </sub>
+</p>
+
+<p align="center">
+  <b>✨ Daily Reminder ✨</b>
+</p>
+
+<p align="center">
+  <i>
+    “Small commits today,<br>
+    big impact tomorrow.”
+  </i>
+</p>
+
 
 
 
