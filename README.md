@@ -18,10 +18,10 @@
      Ketidaktahuan.”
   </i>
 </p>
-<p align="left">
+<p>
   ─── ✦ ───
 </p>
-<p align="left">
+<p>
   <i>
     “Hanya Orang Gila.<br>
      Yang menginginkan hasil.<br>
