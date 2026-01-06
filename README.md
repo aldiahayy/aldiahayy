@@ -9,26 +9,12 @@
 ###
 <table align="center">
   <tr>
-    <td align="center">
-      <i>
-        “Progress,<br>
-        not perfection.”
-      </i>
-    </td>
-    <td align="center">
-      <i>
-        “One line of code<br>
-        at a time.”
-      </i>
-    </td>
-    <td align="center">
-      <i>
-        “Let your code<br>
-        speak.”
-      </i>
-    </td>
+    <td align="center"><i>“Learn”</i></td>
+    <td align="center"><i>“Build”</i></td>
+    <td align="center"><i>“Ship”</i></td>
   </tr>
 </table>
+
 
 
 <br clear="both">
