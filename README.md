@@ -8,17 +8,17 @@
 
 ###
 
-<p align="center">
-  ─── ✦ ───
-</p>
+<p align="center">─── ✦ ───</p>
 
 <p align="center">
-  <img src="https://readme-quote-api.vercel.app/api?theme=dark&font=serif&align=center" />
+  <i>
+    <!-- QUOTE:START -->
+    Your quote will appear here.
+    <!-- QUOTE:END -->
+  </i>
 </p>
 
-<p align="center">
-  ─── ✦ ───
-</p>
+<p align="center">─── ✦ ───</p>
 
 
 
