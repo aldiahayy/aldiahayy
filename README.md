@@ -12,7 +12,7 @@
 <p align="center">
   ─── ✦ ───
 </p>
-<p align="center">
+<p>
   <i>
     “Ketakutan.<br>
      Berasal dari.<br>
@@ -21,7 +21,7 @@
 </p></div>
  &nbsp; &nbsp; &nbsp;
 <div>
-<p align="center">
+<p>
   ─── ✦ ───
 </p>
 <p align="center">
