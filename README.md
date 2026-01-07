@@ -13,7 +13,7 @@
 <p align="center">
   <i>
     <!-- QUOTE:START -->
-Ketakutan Berasal dari Ketidaktahuan
+“Ketakutan Berasal dari Ketidaktahuan”
 <!-- QUOTE:END -->
   </i>
 </p>
