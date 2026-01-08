@@ -1,5 +1,5 @@
 <h1 align="center">Halo Guys, cihuyyy👌</h1>
-<hr></hr>
+
 
 ###
 
@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aldiahayy&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-<hr></hr>
+
 ###
 
 <picture>
@@ -38,7 +38,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/pacman-contribution-graph.svg">
 </picture>
-<hr></hr>
+
 ###
 
 <br clear="both">
@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
 </div>
-<hr></hr>
+
 ###
 
 <br clear="both">
@@ -68,7 +68,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
 </div>
-<hr></hr>
+
+
 
 ###
 
