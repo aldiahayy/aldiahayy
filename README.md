@@ -14,7 +14,7 @@
 <p align="center">
   <i>
     <!-- QUOTE:START -->
-“Hanya orang gila yang menginginkan hasil yang berbeda tapi cara nya sama”
+cihuyyy
 <!-- QUOTE:END -->
   </i>
 </p>
