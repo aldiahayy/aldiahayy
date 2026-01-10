@@ -14,7 +14,7 @@
 <p align="center">
   <i>
     <!-- QUOTE:START -->
-cihuyyy
+“life is choice”
 <!-- QUOTE:END -->
   </i>
 </p>
