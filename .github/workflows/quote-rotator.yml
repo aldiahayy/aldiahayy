@@ -34,6 +34,7 @@ jobs:
           # Tentukan indeks berdasarkan hari (berputar otomatis)
           INDEX=$(( ($(date -u +%s) / 86400) % ${#QUOTES[@]} ))
           QUOTE="${QUOTES[$INDEX]}"
+          QUOTE=$(echo "$QUOTE" | sed 's/|/<br>/g')
 
           # Escape karakter khusus untuk penggantian aman
           QUOTE_ESCAPED=$(printf '%s' "$QUOTE" | sed 's/[&/\]/\\&/g')
