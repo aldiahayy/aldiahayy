@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F8CFF&center=true&vCenter=true&width=500&lines=Halo+👋;Selamat+datang+di+profil+GitHub+saya" />
+</p>
+
+
 <h1 align="center">Halo Guys, cihuyyy👌</h1>
 
 ###
