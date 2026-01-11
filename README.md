@@ -1,16 +1,12 @@
 <h1 align="center">Halo Guys, cihuyyy👌</h1>
 
-
 ###
-
 <div align="center">
   <img src="https://count.getloli.com/@:aldiahayy?theme=capoo-2&padding=4&offset=0&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
-
 <p align="center">─── ✦ ───</p>
-
 <p align="center">
   <i>
     <!-- QUOTE:START -->
@@ -18,21 +14,16 @@
 <!-- QUOTE:END -->
   </i>
 </p>
-
 <p align="center">─── ✦ ───</p>
-
 <hr></hr>
 
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aldiahayy&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/pacman-contribution-graph.svg">
@@ -40,9 +31,7 @@
 </picture>
 
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="50" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
@@ -50,10 +39,13 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/snake.svg" alt="Snake animation" />
-
 <br clear="both">
+<div align="center">
+<img src="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/snake.svg" alt="Snake animation" />
+</div>
 
+###
+<br clear="both">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
@@ -70,10 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
 </div>
 
-
-
 ###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
