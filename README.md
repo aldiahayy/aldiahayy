@@ -7,7 +7,7 @@
 
 <!-- QUOTES / PERKENALAN MULTI BARIS -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=45&duration=5500&pause=1200&color=00E0FF&center=true&vCenter=true&width=1000&lines=GUe+Aldi+🚀;Welcome+to+My+GitHub+✨;Yahahahahahahhah+😆"
+  <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=45&duration=5500&pause=1200&color=00E0FF&center=true&vCenter=true&width=1000&lines=GUe+Aldi+🚀;Welcome+to+My+GitHub+✨;Yahahahahahahhah+😆"
   />
 </div>
 
