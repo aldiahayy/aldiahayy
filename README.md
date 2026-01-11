@@ -6,14 +6,14 @@
 </div>
 
 ###
-<p align="center">─── ✦ ───</p>
+<h3 align="center">─── ✦ ───</p>
 <p align="center">
   <i>
     <!-- QUOTE:START -->
 “Apa yang kamu lakukan hari ini itu yang <br> akan menentukan dirimu di masa depan”
 <!-- QUOTE:END -->
   </i>
-</p>
+</h3>
 <p align="center">─── ✦ ───</p>
 <h1></h1>
 
@@ -31,11 +31,10 @@
 <h1></h1>
 
 ###
-<br clear="both">
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="70" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="70" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="70" alt="gmail logo"  />
+<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="100" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="100" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="100" alt="gmail logo"  />
 </div>
 
 ###
