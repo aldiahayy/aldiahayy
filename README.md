@@ -1,32 +1,13 @@
 <!-- ANIMASI HALO PERTAMA KALI MUNCUL -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-    ?font=Montserrat
-    &size=90
-    &duration=3000
-    &pause=1000
-    &color=FFD700
-    &center=true
-    &vCenter=true
-    &width=1000
-    &lines=Halo+Guys+👋"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=90&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Halo+Guys+👋"/>
 </div>
 
 <br/>
 
 <!-- QUOTES / PERKENALAN MULTI BARIS -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-    ?font=Shadows+Into+Light
-    &size=65
-    &duration=5500
-    &pause=1200
-    &color=00E0FF
-    &center=true
-    &vCenter=true
-    &width=1000
-    &lines=Gue+Aldi+🚀;Welcome+to+My+GitHub+✨;Yahahahahahahhah+😆"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=65&duration=5500&pause=1200&color=00E0FF&center=true&vCenter=true&width=1000&lines=Gue+Aldi+🚀;Welcome+to+My+GitHub+✨;Yahahahahahahhah+😆"
   />
 </div>
 
