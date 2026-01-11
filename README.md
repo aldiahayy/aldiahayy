@@ -28,12 +28,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/pacman-contribution-graph.svg">
 </picture>
-
-
-###
-<div align="center">
-<img src="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/snake.svg" alt="Snake animation" />
-</div>
 <h1></h1>
 
 ###
@@ -61,6 +55,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
 </div>
+<h1></h1>
+
+###
+<div align="center">
+<img src="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/snake.svg" alt="Snake animation" />
+</div>
+<h1></h1>
 
 ###
 <div>
