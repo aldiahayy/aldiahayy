@@ -1,16 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com
-    ?font=Shadows+Into+Light
-    &size=48
-    &duration=5500
-    &color=FFD700
-    &background=00000000
-    &center=true
-    &vCenter=true
-    &lines=Halo Guys,+GUe+Aldi;Welcome+to+my+GitHub;Yahahahahahahhahahhahahh" 
-    alt="Typing SVG" 
-  />
+    src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=48&duration=5500&color=FFD700&background=00000000&center=true&vCenter=true&lines=HaloGuys,+GUe+Aldi;Welcome+to+my+GitHub;Yahahahahahahhahahhahahh" alt="Typing SVG" />
 </div>
 
 ###
