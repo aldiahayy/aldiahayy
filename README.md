@@ -1,21 +1,14 @@
-<!-- ANIMASI HALO PERTAMA KALI MUNCUL -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Halo+Guys+👋"/>
 </div>
-
 <br/>
-
-<!-- QUOTES / PERKENALAN MULTI BARIS -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=45&duration=5500&pause=1200&color=00E0FF&center=true&vCenter=true&width=1000&lines=GUe+Aldi+🚀;Welcome+to+My+GitHub+✨;Yahahahahahahhah+😆"
   />
 </div>
-
-
 ###
 
-
-<h1 align="center">Halo Guys, cihuyyy👌</h1>
+<p align="center">hanya manusia biasa</p>
 
 ###
 <div align="center">
