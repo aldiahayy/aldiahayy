@@ -1,6 +1,18 @@
- <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=150&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Masriadi;Welcome+to+my+GitHub+😊" alt="Typing SVG" />
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com
+    ?font=Shadows+Into+Light
+    &size=48
+    &duration=5500
+    &color=FFD700
+    &background=00000000
+    &center=true
+    &vCenter=true
+    &lines=Halo Guys,+GUe+Aldi;Welcome+to+my+GitHub;Yahahahahahahhahahhahahh" 
+    alt="Typing SVG" 
+  />
 </div>
+
 ###
 
 
