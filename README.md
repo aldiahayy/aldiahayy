@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F8CFF&center=true&vCenter=true&width=500&lines=Halo+👋;Selamat+datang+di+profil+GitHub+saya" />
-</p>
-###
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1200&color=AAAAAA&center=true&vCenter=true&width=480&lines=Halo+👋;Nice+to+see+you+here" />
-</p>
+ <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=150&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Masriadi;Welcome+to+my+GitHub+😊" alt="Typing SVG" />
+</div>
 ###
 
 
