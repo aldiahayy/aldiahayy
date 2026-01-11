@@ -1,6 +1,6 @@
 <!-- ANIMASI HALO PERTAMA KALI MUNCUL -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Halo+Guys+👋"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Halo+Guys+👋"/>
 </div>
 
 <br/>
