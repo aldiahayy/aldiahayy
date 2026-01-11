@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=45&duration=5500&pause=1200&color=00E0FF&center=true&vCenter=true&width=1000&lines=GUe+Aldi+🚀;Welcome+to+My+GitHub+✨;Yahahahahahahhah+😆"
   />
 </div>
-###
-
-<p align="center">hanya manusia biasa</p>
+<h1></h1>
 
 ###
 <div align="center">
