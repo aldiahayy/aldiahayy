@@ -14,7 +14,7 @@
 <p align="center">
   <i>
     <!-- QUOTE:START -->
-“life is choice”
+“Apa yang kamu lakukan hari ini itu yang <br> akan menentukan dirimu di masa depan”
 <!-- QUOTE:END -->
   </i>
 </p>
