@@ -15,7 +15,7 @@
   </i>
 </p>
 <p align="center">─── ✦ ───</p>
-<hr></hr>
+<h1></h1>
 
 ###
 <br clear="both">
@@ -37,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
 </div>
-<hr></hr>
+<h1></h1>
 
 ###
 <div align="center">
