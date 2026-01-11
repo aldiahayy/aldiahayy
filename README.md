@@ -18,12 +18,6 @@
 <h1></h1>
 
 ###
-<br clear="both">
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aldiahayy&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/pacman-contribution-graph.svg">
@@ -33,15 +27,21 @@
 ###
 <br clear="both">
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="50" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
+  <img src="https://streak-stats.demolab.com?user=aldiahayy&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-<h1></h1>
 
 ###
 <div align="center">
 <img src="https://raw.githubusercontent.com/aldiahayy/aldiahayy/output/snake.svg" alt="Snake animation" />
+</div>
+<h1></h1>
+
+###
+<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="50" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
 </div>
 
 ###
