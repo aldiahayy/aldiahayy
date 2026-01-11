@@ -6,14 +6,16 @@
 </div>
 
 ###
-<h3 align="center">─── ✦ ───</p>
+<p align="center">─── ✦ ───</p>
 <p align="center">
+  <big>
   <i>
     <!-- QUOTE:START -->
 “Apa yang kamu lakukan hari ini itu yang <br> akan menentukan dirimu di masa depan”
 <!-- QUOTE:END -->
   </i>
-</h3>
+</big>
+</p>
 <p align="center">─── ✦ ───</p>
 <h1></h1>
 
