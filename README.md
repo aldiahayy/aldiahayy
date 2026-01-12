@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“Apa yang kamu lakukan hari ini itu yang <br> akan menentukan dirimu di masa depan”
+“Ketakutan Berasal dari Ketidaktahuan”
 <!-- QUOTE:END -->
   </i>
 </big>
