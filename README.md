@@ -27,9 +27,9 @@
 <p align="center">─── ✦ ───</p>
 <h1></h1>
 
-
+###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aldiahayy&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=aldiahayy&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
 ###
