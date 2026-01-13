@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“Ketakutan Berasal dari Ketidaktahuan”
+“Tidak usah lebih baik dari orang lain <br> cukup lebih baik dari pada yang kemarin”
 <!-- QUOTE:END -->
   </i>
 </big>
