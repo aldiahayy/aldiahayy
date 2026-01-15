@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“BELAJARlah, karena hanya itu lah yang dapat menyelamatkan <br> DIRIMU dari yang nama nya KEBODOHAN”
+“Ketakutan Berasal dari Ketidaktahuan”
 <!-- QUOTE:END -->
   </i>
 </big>
