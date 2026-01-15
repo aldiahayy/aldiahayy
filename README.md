@@ -28,9 +28,9 @@
 <h1></h1>
 
 ###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aldiahayy&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=aldiahayy&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aldiahayy&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aldiahayy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 <picture>
