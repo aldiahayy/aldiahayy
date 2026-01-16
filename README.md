@@ -10,7 +10,7 @@
 
 ###
 <div align="center">
-  <img src="https://count.getloli.com/@:aldiahayy?theme=capoo-2&padding=4&offset=0&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:aldiahayy?theme=capoo-2&padding=5&offset=0&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
