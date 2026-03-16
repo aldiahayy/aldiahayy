@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“Banyak yang lebih BAIK dari pada DIRIMU <br> maka dari itu MERENDAHLAH.”
+“Ketakutan Berasal dari Ketidaktahuan”
 <!-- QUOTE:END -->
   </i>
 </big>
