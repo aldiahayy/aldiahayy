@@ -1,29 +1,29 @@
-name: Auto Commit Daily
+# name: Auto Commit Daily
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # setiap hari (UTC)
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"   # setiap hari (UTC)
+#   workflow_dispatch:
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-jobs:
-  auto-commit:
-    runs-on: ubuntu-latest
+# jobs:
+#   auto-commit:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+#     steps:
+#       - name: Checkout repo
+#         uses: actions/checkout@v4
 
-      - name: Update file
-        run: |
-          echo "Update $(date)" > auto.txt
+#       - name: Update file
+#         run: |
+#           echo "Update $(date)" > auto.txt
 
-      - name: Commit & Push
-        run: |
-          git config --global user.name "aldiahayy"
-          git config --global user.email "aldisalam0756@gmail.com"
-          git add auto.txt
-          git commit -m "auto commit: $(date)" || echo "no change"
-          git push
+#       - name: Commit & Push
+#         run: |
+#           git config --global user.name "aldiahayy"
+#           git config --global user.email "aldisalam0756@gmail.com"
+#           git add auto.txt
+#           git commit -m "auto commit: $(date)" || echo "no change"
+#           git push
