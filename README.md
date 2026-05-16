@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“Apa yang kamu lakukan hari ini itu yang <br> akan menentukan dirimu di masa depan”
+“BELAJARlah, karena hanya itu lah yang dapat menyelamatkan <br> DIRIMU dari yang nama nya KEBODOHAN”
 <!-- QUOTE:END -->
   </i>
 </big>
