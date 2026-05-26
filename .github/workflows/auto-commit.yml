@@ -1,63 +1,63 @@
-# name: Auto Commit Daily
-
-# on:
-#   schedule:
-#     - cron: "0 0 * * *"   # setiap hari (UTC)
-#   workflow_dispatch:
-
-# permissions:
-#   contents: write
-
-# jobs:
-#   auto-commit:
-#     runs-on: ubuntu-latest
-
-#     steps:
-#       - name: Checkout repo
-#         uses: actions/checkout@v4
-
-#       - name: Update file
-#         run: |
-#           echo "Update $(date)" > auto.txt
-
-#       - name: Commit & Push
-#         run: |
-#           git config --global user.name "aldiahayy"
-#           git config --global user.email "aldisalam0756@gmail.com"
-#           git add auto.txt
-#           git commit -m "auto commit: $(date)" || echo "no change"
-#           git push
-
-name: Auto Commit
+name: Auto Commit Daily
 
 on:
   schedule:
-    - cron: "0 7 * * *"  # Tiap hari jam 07:00 UTC (14:00 WIB)
+    - cron: "0 0 * * *"   # setiap hari (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   auto-commit:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Setup Git
+      - name: Update file
         run: |
-          git config --global user.name '${{ github.actor }}'
-          git config --global user.email '${{ github.actor }}@users.noreply.github.com'
+          echo "Update $(date)" > auto.txt
 
-      - name: Make Changes
+      - name: Commit & Push
         run: |
-          echo "Auto update on $(date)" >> changes.txt
+          git config --global user.name "aldiahayy"
+          git config --global user.email "aldisalam0756@gmail.com"
+          git add auto.txt
+          git commit -m "auto commit: $(date)" || echo "no change"
+          git push
 
-      - name: Commit Changes
-        run: |
-          git add .
-          git commit -m "Auto commit from GitHub Actions" || echo "No changes to commit"
+# name: Auto Commit
 
-      - name: Push Changes
-        run: |
-          git push origin HEAD
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# on:
+#   schedule:
+#     - cron: "0 7 * * *"  # Tiap hari jam 07:00 UTC (14:00 WIB)
+
+# jobs:
+#   auto-commit:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v3
+
+#       - name: Setup Git
+#         run: |
+#           git config --global user.name '${{ github.actor }}'
+#           git config --global user.email '${{ github.actor }}@users.noreply.github.com'
+
+#       - name: Make Changes
+#         run: |
+#           echo "Auto update on $(date)" >> changes.txt
+
+#       - name: Commit Changes
+#         run: |
+#           git add .
+#           git commit -m "Auto commit from GitHub Actions" || echo "No changes to commit"
+
+#       - name: Push Changes
+#         run: |
+#           git push origin HEAD
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
