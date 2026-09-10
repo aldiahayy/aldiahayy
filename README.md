@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“Tidak usah lebih baik dari orang lain <br> cukup lebih baik dari pada yang kemarin”
+“BELAJARlah, karena hanya itu lah yang dapat menyelamatkan <br> DIRIMU dari yang nama nya KEBODOHAN”
 <!-- QUOTE:END -->
   </i>
 </big>
