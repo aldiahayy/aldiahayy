@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“Kalo Belum BerManfaat, artinya <br> KAMU Belum HebAT.”
+“Ketakutan Berasal dari Ketidaktahuan”
 <!-- QUOTE:END -->
   </i>
 </big>
