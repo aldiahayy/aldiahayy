@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“Apa yang kamu lakukan hari ini itu yang <br> akan menentukan dirimu di masa depan”
+“Tidak usah lebih baik dari orang lain <br> cukup lebih baik dari pada yang kemarin”
 <!-- QUOTE:END -->
   </i>
 </big>
