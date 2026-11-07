@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“Ketakutan Berasal dari Ketidaktahuan”
+“Hanya orang gila yang menginginkan hasil yang berbeda tapi cara nya sama”
 <!-- QUOTE:END -->
   </i>
 </big>
