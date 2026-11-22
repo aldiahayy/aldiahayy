@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“BELAJARlah, karena hanya itu lah yang dapat menyelamatkan <br> DIRIMU dari yang nama nya KEBODOHAN”
+“Banyak yang lebih BAIK dari pada DIRIMU <br> maka dari itu MERENDAHLAH.”
 <!-- QUOTE:END -->
   </i>
 </big>
