@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-“Banyak yang lebih BAIK dari pada DIRIMU <br> maka dari itu MERENDAHLAH.”
+“Kalo Belum BerManfaat, artinya <br> KAMU Belum HebAT.”
 <!-- QUOTE:END -->
   </i>
 </big>
