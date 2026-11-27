@@ -19,7 +19,7 @@
   <big>
   <i>
     <!-- QUOTE:START -->
-cihuyyy
+“life is choice”
 <!-- QUOTE:END -->
   </i>
 </big>
